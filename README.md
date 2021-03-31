@@ -6,7 +6,12 @@
 
 1. Removing unnecessary files
 2. Cleanup
+3. Setting up folder structure
 
-### Container
+### Components
 
-1. App component
+1. Layout
+
+### Containers
+
+1. BurgerBuilder
