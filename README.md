@@ -46,10 +46,11 @@
 1. Importing higher order component to render adjacent jsx elements
 2. Rendering Burger component
 3. Passing ingredients state as props to Burger component
+4. Rendering BuildControls component
 
 ### BuildControls component
 
-1. Importing BuildControl component
+1. Rendering BuildControl component for each label
 2. Styling with module.css file via importing it first
 
 ### BuildControl component
