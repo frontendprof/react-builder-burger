@@ -35,8 +35,10 @@
 
 1. Rendering burger ingredient components with different prop types
 2. Styling with module.css including media queries for different screen sizes
+3. Outputting burger ingredients dynamically
 
 ### BurgerBuilder container
 
 1. Importing higher order component to render adjacent jsx elements
 2. Rendering Burger component
+3. Passing ingredients state as props to Burger component
