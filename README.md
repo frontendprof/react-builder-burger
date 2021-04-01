@@ -47,13 +47,20 @@
 2. Rendering Burger component
 3. Passing ingredients state as props to Burger component
 4. Rendering BuildControls component
+5. Setting up for adding button logic with addIngredientHandler callback
+6. Setting up for deducting button logic with removeIngredientHandler reference
+7. Checking for removing null value logic and preventing it from happening by disabling button click
 
 ### BuildControls component
 
 1. Rendering BuildControl component for each label
 2. Styling with module.css file via importing it first
+3. Distributing addIngredientHandler as props
+4. Passing down removeIngredientHandler as props to BuildControl component
 
 ### BuildControl component
 
 1. Implementing individual build control component
 2. Applying styling via module.css
+3. Wiring up passed props to on click handler
+4. Hooking up passed props to onClick handler
