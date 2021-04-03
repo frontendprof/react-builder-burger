@@ -16,6 +16,8 @@
 3. BurgerIngredient
 4. BuildControls
 5. BuildControl
+6. UI/Modal/Modal component
+7. UI/Backdrop/Backdrop component
 
 ### Containers
 
@@ -66,3 +68,8 @@
 2. Applying styling via module.css
 3. Wiring up passed props to on click handler
 4. Hooking up passed props to onClick handler
+
+### Modal component
+
+1. Minimum barebone with rendering children props
+2. Implementing module.css styling
