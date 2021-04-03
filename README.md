@@ -50,6 +50,8 @@
 5. Setting up for adding button logic with addIngredientHandler callback
 6. Setting up for deducting button logic with removeIngredientHandler reference
 7. Checking for removing null value logic and preventing it from happening by disabling button click
+8. Incorporating total price state and passing it to build controls component as props
+9. Order button conditional rendering
 
 ### BuildControls component
 
