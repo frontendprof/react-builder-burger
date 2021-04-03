@@ -16,6 +16,8 @@
 3. BurgerIngredient
 4. BuildControls
 5. BuildControl
+6. UI/Modal/Modal component
+7. UI/Backdrop/Backdrop component
 
 ### Containers
 
@@ -50,6 +52,8 @@
 5. Setting up for adding button logic with addIngredientHandler callback
 6. Setting up for deducting button logic with removeIngredientHandler reference
 7. Checking for removing null value logic and preventing it from happening by disabling button click
+8. Incorporating total price state and passing it to build controls component as props
+9. Order button conditional rendering
 
 ### BuildControls component
 
@@ -64,3 +68,8 @@
 2. Applying styling via module.css
 3. Wiring up passed props to on click handler
 4. Hooking up passed props to onClick handler
+
+### Modal component
+
+1. Minimum barebone with rendering children props
+2. Implementing module.css styling
