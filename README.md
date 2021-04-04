@@ -83,3 +83,8 @@
 
 1. Importing high order component to render different elements
 2. Listing all ingredient items with counts
+
+### Backdrop component
+
+1. Styling via module.css
+2. Implementing modal form on clicking backdrop area
