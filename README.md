@@ -19,6 +19,7 @@
 6. UI/Modal/Modal component
 7. UI/Backdrop/Backdrop component
 8. OrderSummary component
+9. Toolbar component
 
 ### Containers
 
@@ -28,6 +29,7 @@
 
 1. Importing higher order component to render adjacent jsx elements
 2. Implementing module.css for styling
+3. Importing Toolbar component
 
 ### BurgerIngredient component
 
@@ -91,3 +93,8 @@
 
 1. Styling via module.css
 2. Implementing modal form on clicking backdrop area
+
+### Toolbar component
+
+1. Rendering header, menu, logo, nav elements
+2. Applying style via module.css
