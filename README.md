@@ -56,6 +56,7 @@
 8. Incorporating total price state and passing it to build controls component as props
 9. Order button conditional rendering
 10. Passing purchase handler callback as props to build controls
+11. Passing Cancel, continue, price references as props down to order summary component
 
 ### BuildControls component
 
@@ -83,6 +84,8 @@
 
 1. Importing high order component to render different elements
 2. Listing all ingredient items with counts
+3. Continue and Cancel button import and its logic
+4. Rendering price with some inline style
 
 ### Backdrop component
 
