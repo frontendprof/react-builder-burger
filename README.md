@@ -18,6 +18,8 @@
 5. BuildControl
 6. UI/Modal/Modal component
 7. UI/Backdrop/Backdrop component
+8. OrderSummary component
+9. Toolbar component
 
 ### Containers
 
@@ -27,6 +29,7 @@
 
 1. Importing higher order component to render adjacent jsx elements
 2. Implementing module.css for styling
+3. Importing Toolbar component
 
 ### BurgerIngredient component
 
@@ -54,6 +57,8 @@
 7. Checking for removing null value logic and preventing it from happening by disabling button click
 8. Incorporating total price state and passing it to build controls component as props
 9. Order button conditional rendering
+10. Passing purchase handler callback as props to build controls
+11. Passing Cancel, continue, price references as props down to order summary component
 
 ### BuildControls component
 
@@ -61,6 +66,7 @@
 2. Styling with module.css file via importing it first
 3. Distributing addIngredientHandler as props
 4. Passing down removeIngredientHandler as props to BuildControl component
+5. Making modal form visible/invisible upon click handler
 
 ### BuildControl component
 
@@ -73,3 +79,22 @@
 
 1. Minimum barebone with rendering children props
 2. Implementing module.css styling
+3. Wrapping up OrderSUmmary component with ingredients as props
+4. Applying inline style with condition
+
+### OrderSummary component
+
+1. Importing high order component to render different elements
+2. Listing all ingredient items with counts
+3. Continue and Cancel button import and its logic
+4. Rendering price with some inline style
+
+### Backdrop component
+
+1. Styling via module.css
+2. Implementing modal form on clicking backdrop area
+
+### Toolbar component
+
+1. Rendering header, menu, logo, nav elements
+2. Applying style via module.css
