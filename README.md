@@ -20,6 +20,8 @@
 7. UI/Backdrop/Backdrop component
 8. OrderSummary component
 9. Toolbar component
+10. Logo component
+11. NavigationItems and NavigationItem components
 
 ### Containers
 
@@ -98,3 +100,10 @@
 
 1. Rendering header, menu, logo, nav elements
 2. Applying style via module.css
+3. Importing logo component
+4. Importing NavigationItems component
+
+### Logo component
+
+1. Importing logo image
+2. Appyling style via module.css file
