@@ -22,6 +22,7 @@
 9. Toolbar component
 10. Logo component
 11. NavigationItems and NavigationItem components
+12. SideDrawer
 
 ### Containers
 
@@ -32,6 +33,7 @@
 1. Importing higher order component to render adjacent jsx elements
 2. Implementing module.css for styling
 3. Importing Toolbar component
+4. Importing SideDrawer component
 
 ### BurgerIngredient component
 
@@ -107,3 +109,9 @@
 
 1. Importing logo image
 2. Appyling style via module.css file
+
+### SideDrawer component
+
+1. Importing Logo component
+2. Importing NavigationItems
+3. Styling with module.css file
