@@ -11,7 +11,6 @@
 
 ### Components
 
-1. Layout
 2. Burger
 3. BurgerIngredient
 4. BuildControls
@@ -23,10 +22,12 @@
 10. Logo component
 11. NavigationItems and NavigationItem components
 12. SideDrawer
+13. DrawerToggle component
 
 ### Containers
 
 1. BurgerBuilder
+2. Layout
 
 ### Layout component
 
@@ -34,6 +35,7 @@
 2. Implementing module.css for styling
 3. Importing Toolbar component
 4. Importing SideDrawer component
+5. Passing drawerToggleClicked props after wiring it up sideDrawerToggleHandler callback
 
 ### BurgerIngredient component
 
@@ -104,6 +106,7 @@
 2. Applying style via module.css
 3. Importing logo component
 4. Importing NavigationItems component
+5. Importing DrawerToggle component and passing clicked props
 
 ### Logo component
 
@@ -115,3 +118,9 @@
 1. Importing Logo component
 2. Importing NavigationItems
 3. Styling with module.css file
+
+### DrawerToggle component
+
+1. Rendering Menu div element
+2. Attaching on click event handler
+3. Attaching module.css file for styling hamburger icon

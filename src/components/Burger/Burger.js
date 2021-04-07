@@ -15,7 +15,6 @@ const Burger = (props) => {
         .reduce((arr,el)=>{
             return arr.concat(el)
         },[])
-        console.log(newIngredients);
 
         if(newIngredients.length===0){
             newIngredients=<p style={{ color:"red",backgroundColor:"yellow" }}>Please start adding some ingredients!</p>
