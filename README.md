@@ -11,7 +11,6 @@
 
 ### Components
 
-1. Layout
 2. Burger
 3. BurgerIngredient
 4. BuildControls
@@ -28,6 +27,7 @@
 ### Containers
 
 1. BurgerBuilder
+2. Layout
 
 ### Layout component
 
