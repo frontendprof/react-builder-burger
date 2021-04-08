@@ -31,6 +31,11 @@
 1. BurgerBuilder
 2. Layout
 
+### hoc
+
+1. Aux
+2. withErrorHandler
+
 ### Layout component
 
 1. Importing higher order component to render adjacent jsx elements
@@ -136,3 +141,9 @@
 1. Initial scaffolding
 2. Clonning spinner from projects.lukehass.me
 3. Applying style via module.css
+
+### withErrorHandler
+
+1. Initial scaffolding
+2. Creating axios interceptors for request and respond
+3. Removing redundant interceptors
