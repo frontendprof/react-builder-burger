@@ -2,6 +2,7 @@
 
 - npx create-react-app app-name
 - npm install --save prop-types
+- npm install --save axios
 
 ### Initial setup
 
