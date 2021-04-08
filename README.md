@@ -24,11 +24,17 @@
 11. NavigationItems and NavigationItem components
 12. SideDrawer
 13. DrawerToggle component
+14. Spinner component
 
 ### Containers
 
 1. BurgerBuilder
 2. Layout
+
+### hoc
+
+1. Aux
+2. withErrorHandler
 
 ### Layout component
 
@@ -66,6 +72,9 @@
 9. Order button conditional rendering
 10. Passing purchase handler callback as props to build controls
 11. Passing Cancel, continue, price references as props down to order summary component
+12. Configuring post request sending to firebase database
+13. Checking if loading state true, importing spinner component
+14. Configuring database for retrieving data from it
 
 ### BuildControls component
 
@@ -88,6 +97,7 @@
 2. Implementing module.css styling
 3. Wrapping up OrderSUmmary component with ingredients as props
 4. Applying inline style with condition
+5. Fine-tuning for spotting change in modal children props
 
 ### OrderSummary component
 
@@ -125,3 +135,15 @@
 1. Rendering Menu div element
 2. Attaching on click event handler
 3. Attaching module.css file for styling hamburger icon
+
+### Spinner component
+
+1. Initial scaffolding
+2. Clonning spinner from projects.lukehass.me
+3. Applying style via module.css
+
+### withErrorHandler
+
+1. Initial scaffolding
+2. Creating axios interceptors for request and respond
+3. Removing redundant interceptors
