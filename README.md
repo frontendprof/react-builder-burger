@@ -69,6 +69,7 @@
 11. Passing Cancel, continue, price references as props down to order summary component
 12. Configuring post request sending to firebase database
 13. Checking if loading state true, importing spinner component
+14. Configuring database for retrieving data from it
 
 ### BuildControls component
 
